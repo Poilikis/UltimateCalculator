@@ -1,4 +1,2 @@
-# We Have Moved!
-Go To 
+# We Have Moved To
 # https://github.com/Poilikis/MIllionDollarPavements-Calculator
-Instead!
